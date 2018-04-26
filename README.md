@@ -1,4 +1,4 @@
-# 慕课秒杀教学课程源码
+# 慕课秒杀教学课程源码(frok)
 ## 相关技术
 1. Spring&SpringMVC
 2. MyBatis
